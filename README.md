@@ -11,7 +11,7 @@
 <details>
 <summary><b>The MDKVA Philosophy</b></summary>
   
-- **Human-Centered Design**: Every pixel and automated workflow is built to serve a genuine human need, prioritizing cognitive ease over engagement metrics.
+- **Human-Centered Design**: Every pixel and automated workflow is built to serve a genuine human need.
 - **Data Autonomy**: Creating Local-first architectures ensuring individuals retain absolute ownership and privacy of their digital footprint.
 - **Purposeful Automation**: Systematically handling repetitive digital complexity so humans can focus entirely on growth and creativity.
 
@@ -36,7 +36,7 @@ Our user-facing software focuses on personal optimization, mental clarity, and d
 
 We scale our impact by providing developer-facing tools, modular components, and foundational APIs that make it easier for others to build accessible, privacy-centric software.
 
-- 🎨 **[EncryptionKit](https://mdkva.com/apis/encryptionkit/)** – Cryptographic Utility API
+- 🔒 **[EncryptionKit](https://mdkva.com/apis/encryptionkit/)** – Cryptographic Utility API
 - 🎨 **[ThemeKit](https://mdkva.com/apis/themekit/)** – Theme & Mode API
 - 🖋️ **[TextKit](https://mdkva.com/apis/textkit/)** – Developer Text API
 - 🕋 **[SurahKit](https://mdkva.com/apis/surahkit/)** – Quran Surah API
@@ -68,12 +68,12 @@ Modular extensions engineered to seamlessly upgrade user interaction, accessibil
 
 ---
 
-🤝 **Strategic Collaboration**
+🤝 **Business Collaboration**
 
 We collaborate with organizations and teams aligned with creating a more intentional digital landscape:
 
 - **Ethical Software Architecture**: Sharing methodologies on digital minimalism and human-first engineering.
-- **Open-Source Frameworks**: Supporting global initiatives that champion data security and user-centric systems.
+- **Open-Source Frameworks**: Supporting global initiatives for data security and user-centric systems.
 - **Ecosystem Integration**: Tailoring MDKVA infrastructure to bring focus and clarity to existing systems.
 
 📫 **Connect with the Vision**

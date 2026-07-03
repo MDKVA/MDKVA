@@ -24,32 +24,33 @@
 Our user-facing software focuses on personal optimization, mental clarity, and daily utility—giving individuals the tools to manage their lives with zero unnecessary distractions.
 
 - ⌨️ **[KeyboardTyping](https://mdkva.com/apps/keyboardtyping/)** – Practice Speed with Meaning
+- 🚗 **[VehicleRecords](https://mdkva.com/apps/vehiclerecords/)** – Maintain with Purpose & Clarity
+- 💰 **[CashFlow](https://mdkva.com/apps/cashflow/)** – Income & Expense Tracking
+- 📊 **[GradeMeter](https://mdkva.com/apps/grademeter/)** – GPA & CGPA Calculator
 - 📿 **[DigitalTasbih](https://mdkva.com/apps/digitaltasbih/)** – Count Dhikr with Focus
 - 🛡️ **[SafePassword](https://mdkva.com/apps/safepassword/)** – Test & Generate Passwords
-- 📊 **[GradeMeter](https://mdkva.com/apps/grademeter/)** – GPA & CGPA Calculator
-- 🚗 **[VehicleRecords](https://mdkva.com/apps/vehiclerecords/)** – Maintain with Purpose & Clarity
 - 📝 **[MindNotes](https://mdkva.com/apps/mindnotes/)** – Capture Notes with Simplicity
-- 💰 **[CashFlow](https://mdkva.com/apps/cashflow/)** – Income & Expense Tracking
 
 
 🛠️ **Integration APIs**
 
 We scale our impact by providing developer-facing tools, modular components, and foundational APIs that make it easier for others to build accessible, privacy-centric software.
 
-- 🕋 **[SurahKit](https://mdkva.com/apis/surahkit/)** – Quran Surah API
-- ✨ **[TasbihKit](https://mdkva.com/apis/tasbihkit/)** – Dhikr & Tasbih API
+- 🎨 **[EncryptionKit](https://mdkva.com/apis/encryptionkit/)** – Cryptographic Utility API
 - 🎨 **[ThemeKit](https://mdkva.com/apis/themekit/)** – Theme & Mode API
 - 🖋️ **[TextKit](https://mdkva.com/apis/textkit/)** – Developer Text API
+- 🕋 **[SurahKit](https://mdkva.com/apis/surahkit/)** – Quran Surah API
+- ✨ **[TasbihKit](https://mdkva.com/apis/tasbihkit/)** – Dhikr & Tasbih API
 
 
 🔌 **Plugins & Utilities**
 
 Modular extensions engineered to seamlessly upgrade user interaction, accessibility standards, and document layouts.
 
-- 🕋 **[SurahFlow](https://mdkva.com/plugins/surahflow/)** – Quran Surah Plugin
-- ✨ **[TasbihFlow](https://mdkva.com/plugins/tasbihflow/)** – Dhikr & Tasbih Plugin
 - 🎨 **[Prism](https://mdkva.com/plugins/prism/)** – Accessibility & UI Controller
 - 🗺️ **[Atlas](https://mdkva.com/plugins/atlas)** – Dynamic Document Navigator
+- 🕋 **[SurahFlow](https://mdkva.com/plugins/surahflow/)** – Quran Surah Plugin
+- ✨ **[TasbihFlow](https://mdkva.com/plugins/tasbihflow/)** – Dhikr & Tasbih Plugin
   
 ---
 
